@@ -12,8 +12,8 @@ namespace TheCodeCamp.Data.Entities
         public CampMappingProfile()
         {
             CreateMap<Camp, CampModel>()
-                .ForMember(c => c.Venue, op => op.MapFrom(m => m.Location.VenueName));
-
+                .ForMember(c => c.Venue, op => op.MapFrom(m => m.Location.VenueName)).ReverseMap();
+           
             CreateMap<Talk, TalkModel>();
 
             CreateMap<Speaker, SpeakerModel>();
