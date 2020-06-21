@@ -9,7 +9,7 @@ using TheCodeCamp.Data;
 
 namespace TheCodeCamp.Controllers
 {
-  public class ValuesController : ApiController
+  public class ValuesController
   {
     public string[] Get()
     {

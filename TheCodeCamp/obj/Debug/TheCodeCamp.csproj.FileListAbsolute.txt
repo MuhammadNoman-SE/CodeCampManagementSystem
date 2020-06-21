@@ -101,3 +101,7 @@ C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSyst
 C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
 C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.dll
 C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
+C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.dll
+C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.pdb
+C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.xml
+C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csprojAssemblyReference.cache
