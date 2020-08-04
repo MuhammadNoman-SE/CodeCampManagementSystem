@@ -1,107 +1,171 @@
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\TheCodeCamp.dll.config
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\TheCodeCamp.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\TheCodeCamp.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csc.exe
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csc.exe.config
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csc.rsp
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csi.exe
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csi.exe.config
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\csi.rsp
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.AppContext.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Console.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.IO.Compression.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Net.Http.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Net.Sockets.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.ValueTuple.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Xml.XPath.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\vbc.exe
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\vbc.exe.config
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\vbc.rsp
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\VBCSCompiler.exe
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Antlr3.Runtime.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Autofac.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Autofac.Integration.WebApi.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\CommonServiceLocator.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\EntityFramework.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\EntityFramework.SqlServer.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Newtonsoft.Json.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Net.Http.Formatting.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Helpers.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Http.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Http.WebHost.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Mvc.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Optimization.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Razor.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.Deployment.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.Razor.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\WebActivatorEx.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\WebGrease.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Autofac.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Autofac.Integration.WebApi.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Autofac.Integration.WebApi.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\EntityFramework.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\EntityFramework.SqlServer.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Newtonsoft.Json.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Newtonsoft.Json.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Net.Http.Formatting.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Helpers.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Http.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Http.WebHost.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Mvc.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Razor.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.Deployment.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.WebPages.Razor.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\System.Web.Optimization.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\Antlr3.Runtime.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.InitialCreate.resources
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.Initial.resources
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.GenerateResource.cache
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CoreCompileInputs.cache
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.dll
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.pdb
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\bin\AutoMapper.xml
-C:\Users\MUHAMMAD SALMAN\Desktop\CodeCampManagementSystem\CodeCampManagementSystem\TheCodeCamp\obj\Debug\TheCodeCamp.csprojAssemblyReference.cache
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\TheCodeCamp.dll.config
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\TheCodeCamp.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\TheCodeCamp.pdb
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Antlr3.Runtime.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Autofac.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Autofac.Integration.WebApi.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\AutoMapper.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\CommonServiceLocator.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\EntityFramework.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\EntityFramework.SqlServer.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Microsoft.Web.Infrastructure.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Newtonsoft.Json.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Net.Http.Formatting.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.ValueTuple.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Helpers.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Http.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Http.WebHost.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Mvc.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Optimization.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Razor.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.Deployment.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.Razor.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\WebActivatorEx.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\WebGrease.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Autofac.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Autofac.Integration.WebApi.pdb
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Autofac.Integration.WebApi.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\AutoMapper.pdb
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\AutoMapper.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\EntityFramework.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\EntityFramework.SqlServer.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Newtonsoft.Json.pdb
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Newtonsoft.Json.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Net.Http.Formatting.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.ValueTuple.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Helpers.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Http.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Http.WebHost.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Mvc.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Razor.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.Deployment.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.WebPages.Razor.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\System.Web.Optimization.xml
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\bin\Antlr3.Runtime.pdb
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.InitialCreate.resources
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.Initial.resources
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.GenerateResource.cache
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CoreCompileInputs.cache
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.dll
+D:\Learning Data\Learning Data\WebApiLearning\1aspnet-web-api-building\02\demos\M2\after\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\TheCodeCamp.dll.config
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\TheCodeCamp.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\TheCodeCamp.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csc.exe
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csc.exe.config
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csc.rsp
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csi.exe
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csi.exe.config
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\csi.rsp
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.AppContext.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Collections.Immutable.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Console.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.IO.Compression.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.IO.FileSystem.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Net.Http.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Net.Sockets.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.ValueTuple.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Xml.XPath.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\vbc.exe
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\vbc.exe.config
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\vbc.rsp
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\VBCSCompiler.exe
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\roslyn\VBCSCompiler.exe.config
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Antlr3.Runtime.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Autofac.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Autofac.Integration.WebApi.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\AutoMapper.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\CommonServiceLocator.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\EntityFramework.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\EntityFramework.SqlServer.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.Web.Infrastructure.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Newtonsoft.Json.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Net.Http.Formatting.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.ValueTuple.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Helpers.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Http.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Http.WebHost.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Mvc.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Optimization.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Razor.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.Deployment.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.Razor.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\WebActivatorEx.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\WebGrease.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Autofac.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Autofac.Integration.WebApi.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Autofac.Integration.WebApi.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\AutoMapper.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\AutoMapper.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\EntityFramework.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\EntityFramework.SqlServer.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Newtonsoft.Json.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Newtonsoft.Json.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Net.Http.Formatting.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.ValueTuple.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Helpers.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Http.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Http.WebHost.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Mvc.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Razor.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.Deployment.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.WebPages.Razor.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\System.Web.Optimization.xml
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Antlr3.Runtime.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.csprojAssemblyReference.cache
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.InitialCreate.resources
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.Initial.resources
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.GenerateResource.cache
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CoreCompileInputs.cache
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.AspNet.WebApi.Versioning.dll
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.AspNet.WebApi.Versioning.pdb
+D:\Learning Data\Learning Data\WebApiLearning\after\TheCodeCamp\bin\Microsoft.AspNet.WebApi.Versioning.xml

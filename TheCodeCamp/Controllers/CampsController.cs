@@ -1,142 +1,85 @@
 ﻿using AutoMapper;
+using Microsoft.Web.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Web;
 using System.Web.Http;
 using TheCodeCamp.Data;
-using TheCodeCamp.Model;
+using TheCodeCamp.Models;
 
 namespace TheCodeCamp.Controllers
 {
-    [RoutePrefix("api/camps")]
-    public class CampsController:ApiController
+  [RoutePrefix("api/v{version:apiVersion}/camp")]
+  [ApiVersion("2.0")]
+  public class CampsController : ApiController
+  {
+    private readonly ICampRepository _repository;
+    private readonly IMapper _mapper;
+
+    public CampsController(ICampRepository repository, IMapper mapper)
     {
-        private ICampRepository _repository;
-        private IMapper _mapper;
+      _repository = repository;
+      _mapper = mapper;
+    }
 
-        public CampsController(ICampRepository repository, IMapper mapper)
-        {
-            _repository = repository;
-            _mapper = mapper;
-        }
+    [Route()]
+    public async Task<IHttpActionResult> Get(bool includeTalks = false)
+    {
+      try
+      {
+        var result = await _repository.GetAllCampsAsync(includeTalks);
 
-        [Route()]
-        public async Task<IHttpActionResult> Get(bool includeTalks = false) {
-            try
-            {
-                var result = await _repository.GetAllCampsAsync(includeTalks);
-                var camps = _mapper.Map<IEnumerable<CampModel>>(result);
-                return Ok(camps);
-            }
-            catch (Exception e) {
-                return InternalServerError(e);
+        // Mapping 
+        var mappedResult = _mapper.Map<IEnumerable<CampModel>>(result);
 
-            }
-        }
+        return Ok(mappedResult);
+      }
+      catch (Exception ex)
+      {
+        // TODO Add Logging
+        return InternalServerError(ex);
+      }
+    }
 
-        [Route("{moniker}", Name = "GetCamp")]
+    
+        [MapToApiVersion("2.0")]
+        [Route("{moniker}", Name = "GetCamp20")]
         public async Task<IHttpActionResult> Get(string moniker, bool includeTalks = false)
         {
             try
             {
-                var result = await _repository.GetCampAsync(moniker, includeTalks);
-                if (null == result)
+
+                var rs = await _repository.GetCampAsync(moniker, includeTalks);
+                var mr = _mapper.Map<CampModel>(rs);
+                if (null == mr)
                     return NotFound();
-                var camps = _mapper.Map<CampModel>(result);
-                return Ok(camps);
+                return Ok(new { success= true, content = mr });
             }
             catch (Exception e)
             {
                 return InternalServerError(e);
 
             }
-        }
-        [Route("SearchByDate/{eventDate:dateTime}")]
-        [HttpGet]
-        public async Task<IHttpActionResult> SearchByEventDateTime(DateTime eventDate, bool includeTalks = false)
-        {
-            try
-            {
-                var result = await _repository.GetAllCampsByEventDate(eventDate, includeTalks);
-                if (null == result)
-                    return NotFound();
-                var camps = _mapper.Map<CampModel[]>(result);
-                return Ok(camps);
-            }
-            catch (Exception e)
-            {
-                return InternalServerError(e);
-
-            }
-        }
-        [Route()]
-        public async Task<IHttpActionResult> Post(CampModel model) {
-            try
-            {
-                if (ModelState.IsValid) 
-                {
-                    var camp = _mapper.Map<Camp>(model);
-                    _repository.AddCamp(camp);
-                    bool isCreated = await _repository.SaveChangesAsync();
-                    if (isCreated) {
-                        var campCreated = _mapper.Map<CampModel>(camp);
-                        return CreatedAtRoute("GetCamp", new { moniker = campCreated .Moniker}, campCreated);
-                    }
-                }
-               
-
-            }
-            catch (Exception e) {
-                return InternalServerError(e);
-
-            }
-            return InternalServerError();
+            return BadRequest("NF");
         }
 
-        [Route("{moniker}")]
-        public async Task<IHttpActionResult> Put(string moniker, CampModel model)
-        {
-            try
-            {
-                Camp camp = await _repository.GetCampAsync(moniker);
-                if (null == camp) return NotFound();
-                _mapper.Map(model, camp);
-                bool isUpdated = await _repository.SaveChangesAsync();
-                if (isUpdated) {
-                    return Ok(_mapper.Map<CampModel>(camp));
-                }
+        [Route("searchByDate/{eventDate:datetime}")]
+    [HttpGet]
+    public async Task<IHttpActionResult> SearchByEventDate(DateTime eventDate, bool includeTalks = false)
+    {
+      try
+      {
+        var result = await _repository.GetAllCampsByEventDate(eventDate, includeTalks);
 
-            }
-            catch (Exception e)
-            {
-                return InternalServerError(e);
+        return Ok(_mapper.Map<CampModel[]>(result));
 
-            }
-            return InternalServerError();
-        }
-        [Route("{moniker}")]
-        public async Task<IHttpActionResult> Delete(string moniker)
-        {
-            try
-            {
-                Camp camp = await _repository.GetCampAsync(moniker);
-                if (null == camp) return NotFound();
-                 _repository.DeleteCamp(camp);
-                bool isDeleted = await _repository.SaveChangesAsync();
-                if (isDeleted)
-                {
-                    return Ok();
-                }
-
-            }
-            catch (Exception e)
-            {
-                return InternalServerError(e);
-
-            }
-            return InternalServerError();
-        }
+      }
+      catch (Exception ex)
+      {
+        return InternalServerError(ex);
+      }
     }
+  }
 }
